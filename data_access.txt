@@ -1,0 +1,4 @@
+Original realized volatility data were obtained from:
+Oxford-Man Institute of Quantitative Finance Realized Library:
+https://realized.oxford-man.ox.ac.uk/
+Due to licensing/size restrictions, raw data are not redistributed here.
